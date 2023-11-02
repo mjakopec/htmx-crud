@@ -51,6 +51,6 @@
     ?>
     </tbody>
 </table>
-<div id="draggable" class="no-select"><div id="holder"></div></div>
+<div id="holder"></div>
 </body>
 </html>
