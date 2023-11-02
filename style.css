@@ -1,0 +1,30 @@
+form{
+    max-width: 50%;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    background-color: rgb(160, 160, 160);
+}
+form input[type="submit"], form input[type="button"]{
+    float:right;
+    margin-left: 5px;
+}
+.centered{
+    width: 50%;
+    margin: auto;
+}
+table{
+    margin: auto;
+    max-width: 75%;
+}
+nav {
+    background-color: rgb(54, 54, 160);
+}
+.hand {
+    cursor: pointer !important;
+}
+#holder{
+    position:absolute;
+    z-index: 100;
+    margin: auto;
+}
