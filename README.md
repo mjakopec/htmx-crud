@@ -1,5 +1,5 @@
 # HTMX + PHP CRUD
-## New Trends - why not to try it.
+## New Trends - why not to try it out.
 (https://htmx.org/)
 htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes.
 So you can build modern user interfaces with the simplicity and power of hypertext
